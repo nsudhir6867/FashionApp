@@ -3,25 +3,28 @@
 A fashin app where you can upload the picture of your fashion clothes and sell it to models.
 
 1. Startup Screen
-![SplashScreen](https://user-images.githubusercontent.com/71191413/220249189-f4aa3002-d604-4013-8fb2-c5ddf8948b89.jpg)
+![0 SplashScreen](https://user-images.githubusercontent.com/71191413/220250830-c44efda1-ac31-49e3-9566-b39032757622.jpg)
+
 
 2. Login Screen
-![LoginScreen](https://user-images.githubusercontent.com/71191413/220249105-055d6278-ec4d-4918-9d3a-787d2a8f493a.jpg)
+![1 LoginScreen](https://user-images.githubusercontent.com/71191413/220250838-e7a9f4e5-8f36-44e2-a83b-f8ef153be84c.jpg)
 
 3. Sign Up Screen
-![SignUp](https://user-images.githubusercontent.com/71191413/220249491-8f31ee17-e920-4994-bdf4-7639db60af6a.jpg)
+![2 SignUp](https://user-images.githubusercontent.com/71191413/220250861-dffc88ea-3706-46f9-a25a-ba3ebafb3faf.jpg)
 
 4. Reset Pasword Screen
-![ResetPassword](https://user-images.githubusercontent.com/71191413/220249527-7879c7cb-5fd6-4744-9a56-9f0d3d7a4fcd.jpg)
+![3 ResetPassword](https://user-images.githubusercontent.com/71191413/220250889-19b52519-1719-437a-bd0e-a172e185eae8.jpg)
+
 
 5. New Password Screen
-![NewPassword](https://user-images.githubusercontent.com/71191413/220249573-ca6e0500-d4a5-48e9-912d-4546a879cf10.jpg)
+![4 NewPassword](https://user-images.githubusercontent.com/71191413/220250955-657509d3-5a07-42db-9f82-dcdd7d303eb5.jpg)
 
 6. Home Page
-![Spotlight](https://user-images.githubusercontent.com/71191413/220249693-4dbbe2b9-5cd3-47ce-a576-d8c8976a7ee7.jpg)
+![5 Spotlight](https://user-images.githubusercontent.com/71191413/220250971-20aaabb8-2874-4fbe-8478-69bd61007888.jpg)
 
 7. Camera
-![Camera](https://user-images.githubusercontent.com/71191413/220249731-4c26b506-0a71-4c6d-b5f0-449ccc377e4d.jpg)
+![6 Camera](https://user-images.githubusercontent.com/71191413/220250987-84b9e1eb-33c1-4032-af5e-8c6ecef50526.jpg)
 
 8. Photo Upload
-![PhotoUpload](https://user-images.githubusercontent.com/71191413/220249754-fc418498-a7da-4e09-bed2-df299a2ce5a3.jpg)
+![7 PhotoUpload](https://user-images.githubusercontent.com/71191413/220250997-5182773d-330d-4d73-9ea6-ebaa870132a0.jpg)
+
